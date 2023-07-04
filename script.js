@@ -93,7 +93,7 @@ function renderStudents(studentsArray = students) {
 const img1 = document.createElement("img");
 
 
-img1.src = "./edit .png";
+img1.src = "./edit.png";
 
 
 img1.alt = "Image";

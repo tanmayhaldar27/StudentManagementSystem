@@ -27,6 +27,7 @@ form input {
 
 form button {
   margin-top: 10px;
+  width: 20%;
 }
 
 table {
@@ -34,7 +35,10 @@ table {
   border-collapse: collapse;
 }
 #searchInput{
-  width: 40vw;
+  width: 99%;
+  height: 30px;
+  background-color: black;
+  border-block-color: grey;
 }
 
 th,
